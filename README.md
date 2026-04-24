@@ -1,57 +1,31 @@
+# Reflective Portfolio
 
-# AimanRiaz
+Welcome to my Capstone & Professional Practices Portfolio
 
-**Aiman Riaz – GitHub Profile  About Me**
+This repository showcases my learning journey, weekly reflections, 
+project work, and professional development throughout the course.
 
-Hi! I am **Aiman Riaz**, a BS Computer Science student currently in my **4th semester**. I am passionate about learning modern technologies and improving my programming skills.
+## Details
 
-I enjoy solving problems and building small projects that help me understand real-world applications of computer science.
+* Name: Aiman Riaz
+* Course: Capstone & Professional Practices
+* Semester: IV-B
+* Instructor: Ma'am Aroosa Mubeen
 
----
+## Portfolio Sections
 
-##  Career Objective
+* Introduction
+* Weekly Reflections (Week 1–16)
+* Ethics Reflection
+* Industry Interaction
+* Skills & Career Plan
+* Project Reflection
+* Final Reflection
+* Conclusion
 
-My goal is to become a skilled professional in:
+## Purpose
+To track my learning progress, skill-building, and personal growth 
+throughout this course.
 
-- Machine Learning  
-- Deep Learning  
-- Python Development  
-- Cybersecurity  
-
----
-
-## Skills
-
-- Python Programming  
-- Machine Learning Basics  
-- Deep Learning Concepts  
-- Problem Solving  
-- Git & GitHub  
-- C++ Fundamentals  
-- Basic Data Handling  
-
----
-
-##  Projects
-
-### 1. Rock Paper Scissors AI  
-A simple Python project based on game logic and basic AI decision-making.
-
-### 2. Cats and Dogs Classifier  
-A beginner Machine Learning project that classifies images of cats and dogs using a trained model.
-
----
-
-##  Learning Goals
-
-- Improve Machine Learning & Deep Learning skills  
-- Build real-world AI projects  
-- Learn Cybersecurity concepts  
-- Explore advanced Python frameworks  
-- Contribute to open-source projects  
-
----
-
-##  Contact Me
-- 📧 Email: [aimanisakhel@gmail.com](mailto:aimanisakhel@gmail.com)  
-- 💻 GitHub: 
+This portfolio captures my experiences, achievements, and understanding 
+of real-world software development practices.
