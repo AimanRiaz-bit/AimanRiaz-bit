@@ -45,27 +45,38 @@ Welcome to my Capstone & Professional Practices Portfolio
 
 ## Projects
 
-### Mosquito Repellent Plant Pot
-An eco-friendly product created for the entrepreneurship course, focused on providing a natural and sustainable mosquito repellent solution for daily use.
+### Online Air Reservation System
+Developed an online air reservation system that allows users to search, 
+book, and manage flight reservations using structured data management 
+and core programming concepts.
 
-### University Management System
-Built using Java and SQL, this system includes full CRUD operations, relational database design, and organized record management for students and courses.
+### Phone Directory Application
+Developed a phone directory application that allows users to add, 
+search, update, and delete contact information using basic data 
+management and core programming concepts.
 
-### Tic Tac Toe Game
-Developed an interactive logic-based game with defined win conditions, turn-based management, and smooth user interaction using core programming concepts.
+### Door Alarm System
+Designed a door alarm system that detects unauthorized entry and 
+triggers an alert, built using basic hardware and programming logic 
+to improve home security.
 
-### Solar Tracker System
-Designed a system that automatically detects sunlight direction and adjusts the solar panel angle to improve energy efficiency.
+### Library Management System
+Built a system to manage library records including book issuing, 
+returning, and tracking using structured data management and 
+programming fundamentals.
 
 ---
 
 ## Future Goals
 
-- Become a skilled and professional software developer
-- Keep improving my programming and problem-solving skills
-- Work on real-world software projects and gain industry-level experience
-- Explore modern technologies including Artificial Intelligence and software engineering
+- Build a strong career as a professional software developer
+- Keep developing both technical skills and critical thinking abilities
+- Take part in real-world projects to gain practical industry experience
+- Stay up to date with new technologies including Artificial Intelligence 
+and Cybersecurity
 
 ---
 
 *Computer Science · Semester IV-B · Capstone & Professional Practices*
+
+
